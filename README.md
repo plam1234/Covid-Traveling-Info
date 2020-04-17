@@ -1,2 +1,1 @@
-# Covid-Traveling-Info
-Displays Covid-19 numbers  and top news for selected country
+COVID-19-Travel-Infomation Project
